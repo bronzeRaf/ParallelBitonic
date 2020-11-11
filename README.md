@@ -22,14 +22,16 @@ The user is able to define the problem size, using  a command line argument N, w
 - To compile the source code open a terminal in the same folder with "bitonic.c" and run:
 
 ```$ gcc -std=gnu89 bitonic.c -o executable-file-name```
-	- executable-file-name = the name of the final executable
+
+executable-file-name = the name of the final executable
 
 #### Run
 - To run the bitonic sort for a random array of the desired size open a terminal in the same folder with the executable and run:
 
 ```./executable-file-name N```
-	- executable-file-name = the name of the final executable
-	- N = the superscript of 2 for the array size as: size = 2 <sup>N</sup>
+
+executable-file-name = the name of the final executable
+N = the superscript of 2 for the array size as: size = 2 <sup>N</sup>
 
 
 ## Parallel Implementations
@@ -42,15 +44,17 @@ This is an implementation of the imperative Bitonic sort, using the parallel for
 - To compile the source code open a terminal in the same folder with "CilkPlus.c" and run:
 
 ```$ gcc -std=gnu89 -fcilkplus CilkPlus.c -o executable-file-name```
-	- executable-file-name = the name of the final executable
+
+executable-file-name = the name of the final executable
 
 #### Run
 - To run this bitonic sort for a random array of the desired size open a terminal in the same folder with the executable and run:
 
 ```./executable-file-name N p```
-	- executable-file-name = the name of the final executable
-	- N = the superscript of 2 for the array size as: size = 2 <sup>N</sup>
-	- p = the maximum number of parallel threads
+
+executable-file-name = the name of the final executable
+N = the superscript of 2 for the array size as: size = 2 <sup>N</sup>
+p = the maximum number of parallel threads
 
 ### OpenMP
 There are two implementations, one of the imperative Bitonic sort, using the parallel for loops of OpenMP in the "OpenMP.c" and another one of the recursive Bitonic sort, using the OpenMP task to spawn parallel threads in the "OpenMP1.c".
@@ -59,15 +63,17 @@ There are two implementations, one of the imperative Bitonic sort, using the par
 - To compile the source code open a terminal in the same folder with "OpenMP.c" or "OpenMP1.c" and run:
 
 ```$ gcc -std=gnu89 -fopenmp OpenMP.c -o executable-file-name```
-	- executable-file-name = the name of the final executable
+
+executable-file-name = the name of the final executable
 
 #### Run
 - To run this bitonic sort for a random array of the desired size open a terminal in the same folder with the executable and run:
 
 ```./executable-file-name N p```
-	- executable-file-name = the name of the final executable
-	- N = the superscript of 2 for the array size as: size = 2 <sup>N</sup>
-	- p = the maximum number of parallel threads
+
+executable-file-name = the name of the final executable
+N = the superscript of 2 for the array size as: size = 2 <sup>N</sup>
+p = the maximum number of parallel threads
 
 ### POSIX Threads
 This is an implementation of the recursive Bitonic sort, using parallel thread spawns of POSIX Threads, for every recursive call of the sort.
@@ -76,15 +82,17 @@ This is an implementation of the recursive Bitonic sort, using parallel thread s
 - To compile the source code open a terminal in the same folder with "Pthreads1.c" and run:
 
 ```$ gcc -std=gnu89 -pthread Pthreads1.c -o executable-file-name```
-	- executable-file-name = the name of the final executable
+
+executable-file-name = the name of the final executable
 
 #### Run
 - To run this bitonic sort for a random array of the desired size open a terminal in the same folder with the executable and run:
 
 ```./ executable-file-name N p```
-	- executable-file-name = the name of the final executable
-	- N = the superscript of 2 for the array size as: size = 2 <sup>N</sup>
-	- p = the maximum number of parallel threads
+
+executable-file-name = the name of the final executable
+N = the superscript of 2 for the array size as: size = 2 <sup>N</sup>
+p = the maximum number of parallel threads
 
 ## Results
 In the "results" folder you can find the runtime of each implementation. For a complete comparison the results present the runtimes of any implementation for several maximum threads (p) and for several superscripts of 2 for the array size (q). In any experiment, the implementation is compared with qsort and with the serial implementation runtimes. In every execution the sorts are verified by a test function. All the timing presented in the text files is counted in seconds.
