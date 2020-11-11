@@ -1,0 +1,576 @@
+q---->16   p---->1 
+________________
+OpenMP wall clock time = 0.166774
+ TEST PASSed
+Imperative wall clock time = 0.085958
+ TEST PASSed
+Quick sort wall clock time = 0.016943
+ TEST PASSed
+q---->17   p---->1 
+________________
+OpenMP wall clock time = 0.106722
+ TEST PASSed
+Imperative wall clock time = 0.191242
+ TEST PASSed
+Quick sort wall clock time = 0.035795
+ TEST PASSed
+q---->18   p---->1 
+________________
+OpenMP wall clock time = 0.230855
+ TEST PASSed
+Imperative wall clock time = 0.423072
+ TEST PASSed
+Quick sort wall clock time = 0.075596
+ TEST PASSed
+q---->19   p---->1 
+________________
+OpenMP wall clock time = 0.505670
+ TEST PASSed
+Imperative wall clock time = 0.931161
+ TEST PASSed
+Quick sort wall clock time = 0.158687
+ TEST PASSed
+q---->20   p---->1 
+________________
+OpenMP wall clock time = 1.101918
+ TEST PASSed
+Imperative wall clock time = 2.055115
+ TEST PASSed
+Quick sort wall clock time = 0.334857
+ TEST PASSed
+q---->21   p---->1 
+________________
+OpenMP wall clock time = 8.559158
+ TEST PASSed
+Imperative wall clock time = 4.617062
+ TEST PASSed
+Quick sort wall clock time = 0.704890
+ TEST PASSed
+q---->22   p---->1 
+________________
+OpenMP wall clock time = 20.102957
+ TEST PASSed
+Imperative wall clock time = 9.987188
+ TEST PASSed
+Quick sort wall clock time = 1.477554
+ TEST PASSed
+q---->23   p---->1 
+________________
+OpenMP wall clock time = 11.735632
+ TEST PASSed
+Imperative wall clock time = 21.812505
+ TEST PASSed
+Quick sort wall clock time = 3.100130
+ TEST PASSed
+q---->24   p---->1 
+________________
+OpenMP wall clock time = 25.351209
+ TEST PASSed
+Imperative wall clock time = 47.062364
+ TEST PASSed
+Quick sort wall clock time = 6.483198
+ TEST PASSed
+q---->16   p---->2 
+________________
+OpenMP wall clock time = 0.027591
+ TEST PASSed
+Imperative wall clock time = 0.085852
+ TEST PASSed
+Quick sort wall clock time = 0.016929
+ TEST PASSed
+q---->17   p---->2 
+________________
+OpenMP wall clock time = 0.055798
+ TEST PASSed
+Imperative wall clock time = 0.194771
+ TEST PASSed
+Quick sort wall clock time = 0.035922
+ TEST PASSed
+q---->18   p---->2 
+________________
+OpenMP wall clock time = 0.119839
+ TEST PASSed
+Imperative wall clock time = 0.422847
+ TEST PASSed
+Quick sort wall clock time = 0.075175
+ TEST PASSed
+q---->19   p---->2 
+________________
+OpenMP wall clock time = 0.259278
+ TEST PASSed
+Imperative wall clock time = 0.949897
+ TEST PASSed
+Quick sort wall clock time = 0.158633
+ TEST PASSed
+q---->20   p---->2 
+________________
+OpenMP wall clock time = 0.564947
+ TEST PASSed
+Imperative wall clock time = 2.090594
+ TEST PASSed
+Quick sort wall clock time = 0.334677
+ TEST PASSed
+q---->21   p---->2 
+________________
+OpenMP wall clock time = 1.226171
+ TEST PASSed
+Imperative wall clock time = 4.656139
+ TEST PASSed
+Quick sort wall clock time = 0.704855
+ TEST PASSed
+q---->22   p---->2 
+________________
+OpenMP wall clock time = 2.664638
+ TEST PASSed
+Imperative wall clock time = 10.105149
+ TEST PASSed
+Quick sort wall clock time = 1.484040
+ TEST PASSed
+q---->23   p---->2 
+________________
+OpenMP wall clock time = 31.655824
+ TEST PASSed
+Imperative wall clock time = 22.065353
+ TEST PASSed
+Quick sort wall clock time = 3.216066
+ TEST PASSed
+q---->24   p---->2 
+________________
+OpenMP wall clock time = 16.176432
+ TEST PASSed
+Imperative wall clock time = 57.872676
+ TEST PASSed
+Quick sort wall clock time = 6.486602
+ TEST PASSed
+q---->16   p---->3 
+________________
+OpenMP wall clock time = 0.017905
+ TEST PASSed
+Imperative wall clock time = 0.087337
+ TEST PASSed
+Quick sort wall clock time = 0.017009
+ TEST PASSed
+q---->17   p---->3 
+________________
+OpenMP wall clock time = 0.043601
+ TEST PASSed
+Imperative wall clock time = 0.191110
+ TEST PASSed
+Quick sort wall clock time = 0.035769
+ TEST PASSed
+q---->18   p---->3 
+________________
+OpenMP wall clock time = 0.072516
+ TEST PASSed
+Imperative wall clock time = 0.423700
+ TEST PASSed
+Quick sort wall clock time = 0.075259
+ TEST PASSed
+q---->19   p---->3 
+________________
+OpenMP wall clock time = 0.752203
+ TEST PASSed
+Imperative wall clock time = 0.931667
+ TEST PASSed
+Quick sort wall clock time = 0.158923
+ TEST PASSed
+q---->20   p---->3 
+________________
+OpenMP wall clock time = 0.300794
+ TEST PASSed
+Imperative wall clock time = 2.047463
+ TEST PASSed
+Quick sort wall clock time = 0.334530
+ TEST PASSed
+q---->21   p---->3 
+________________
+OpenMP wall clock time = 0.650161
+ TEST PASSed
+Imperative wall clock time = 4.700985
+ TEST PASSed
+Quick sort wall clock time = 0.705586
+ TEST PASSed
+q---->22   p---->3 
+________________
+OpenMP wall clock time = 1.387466
+ TEST PASSed
+Imperative wall clock time = 10.062049
+ TEST PASSed
+Quick sort wall clock time = 1.479647
+ TEST PASSed
+q---->23   p---->3 
+________________
+OpenMP wall clock time = 3.065136
+ TEST PASSed
+Imperative wall clock time = 21.787056
+ TEST PASSed
+Quick sort wall clock time = 3.101079
+ TEST PASSed
+q---->24   p---->3 
+________________
+OpenMP wall clock time = 6.644389
+ TEST PASSed
+Imperative wall clock time = 47.042074
+ TEST PASSed
+Quick sort wall clock time = 6.484703
+ TEST PASSed
+q---->16   p---->4 
+________________
+OpenMP wall clock time = 0.046912
+ TEST PASSed
+Imperative wall clock time = 0.088458
+ TEST PASSed
+Quick sort wall clock time = 0.017076
+ TEST PASSed
+q---->17   p---->4 
+________________
+OpenMP wall clock time = 0.086295
+ TEST PASSed
+Imperative wall clock time = 0.195842
+ TEST PASSed
+Quick sort wall clock time = 0.036022
+ TEST PASSed
+q---->18   p---->4 
+________________
+OpenMP wall clock time = 0.108385
+ TEST PASSed
+Imperative wall clock time = 0.430729
+ TEST PASSed
+Quick sort wall clock time = 0.076385
+ TEST PASSed
+q---->19   p---->4 
+________________
+OpenMP wall clock time = 0.230321
+ TEST PASSed
+Imperative wall clock time = 0.948819
+ TEST PASSed
+Quick sort wall clock time = 0.158771
+ TEST PASSed
+q---->20   p---->4 
+________________
+OpenMP wall clock time = 0.444143
+ TEST PASSed
+Imperative wall clock time = 2.047766
+ TEST PASSed
+Quick sort wall clock time = 0.334156
+ TEST PASSed
+q---->21   p---->4 
+________________
+OpenMP wall clock time = 0.749804
+ TEST PASSed
+Imperative wall clock time = 4.698157
+ TEST PASSed
+Quick sort wall clock time = 0.705004
+ TEST PASSed
+q---->22   p---->4 
+________________
+OpenMP wall clock time = 1.489875
+ TEST PASSed
+Imperative wall clock time = 10.047722
+ TEST PASSed
+Quick sort wall clock time = 1.479889
+ TEST PASSed
+q---->23   p---->4 
+________________
+OpenMP wall clock time = 3.105333
+ TEST PASSed
+Imperative wall clock time = 21.877746
+ TEST PASSed
+Quick sort wall clock time = 3.100761
+ TEST PASSed
+q---->24   p---->4 
+________________
+OpenMP wall clock time = 6.707647
+ TEST PASSed
+Imperative wall clock time = 47.175827
+ TEST PASSed
+Quick sort wall clock time = 6.483093
+ TEST PASSed
+q---->16   p---->5 
+________________
+OpenMP wall clock time = 0.061915
+ TEST PASSed
+Imperative wall clock time = 0.089555
+ TEST PASSed
+Quick sort wall clock time = 0.016976
+ TEST PASSed
+q---->17   p---->5 
+________________
+OpenMP wall clock time = 0.109059
+ TEST PASSed
+Imperative wall clock time = 0.191225
+ TEST PASSed
+Quick sort wall clock time = 0.035902
+ TEST PASSed
+q---->18   p---->5 
+________________
+OpenMP wall clock time = 0.178595
+ TEST PASSed
+Imperative wall clock time = 0.430908
+ TEST PASSed
+Quick sort wall clock time = 0.075184
+ TEST PASSed
+q---->19   p---->5 
+________________
+OpenMP wall clock time = 0.296509
+ TEST PASSed
+Imperative wall clock time = 0.949341
+ TEST PASSed
+Quick sort wall clock time = 0.158249
+ TEST PASSed
+q---->20   p---->5 
+________________
+OpenMP wall clock time = 0.466496
+ TEST PASSed
+Imperative wall clock time = 2.089755
+ TEST PASSed
+Quick sort wall clock time = 0.334948
+ TEST PASSed
+q---->21   p---->5 
+________________
+OpenMP wall clock time = 0.855927
+ TEST PASSed
+Imperative wall clock time = 4.670984
+ TEST PASSed
+Quick sort wall clock time = 0.705458
+ TEST PASSed
+q---->22   p---->5 
+________________
+OpenMP wall clock time = 4.638917
+ TEST PASSed
+Imperative wall clock time = 9.986765
+ TEST PASSed
+Quick sort wall clock time = 1.477478
+ TEST PASSed
+q---->23   p---->5 
+________________
+OpenMP wall clock time = 3.351703
+ TEST PASSed
+Imperative wall clock time = 21.610555
+ TEST PASSed
+Quick sort wall clock time = 3.091756
+ TEST PASSed
+q---->24   p---->5 
+________________
+OpenMP wall clock time = 18.175309
+ TEST PASSed
+Imperative wall clock time = 47.085589
+ TEST PASSed
+Quick sort wall clock time = 6.482928
+ TEST PASSed
+q---->16   p---->6 
+________________
+OpenMP wall clock time = 0.077279
+ TEST PASSed
+Imperative wall clock time = 0.087466
+ TEST PASSed
+Quick sort wall clock time = 0.017114
+ TEST PASSed
+q---->17   p---->6 
+________________
+OpenMP wall clock time = 0.141086
+ TEST PASSed
+Imperative wall clock time = 0.191069
+ TEST PASSed
+Quick sort wall clock time = 0.035823
+ TEST PASSed
+q---->18   p---->6 
+________________
+OpenMP wall clock time = 0.180879
+ TEST PASSed
+Imperative wall clock time = 0.424475
+ TEST PASSed
+Quick sort wall clock time = 0.075369
+ TEST PASSed
+q---->19   p---->6 
+________________
+OpenMP wall clock time = 0.321737
+ TEST PASSed
+Imperative wall clock time = 0.931531
+ TEST PASSed
+Quick sort wall clock time = 0.158691
+ TEST PASSed
+q---->20   p---->6 
+________________
+OpenMP wall clock time = 0.540876
+ TEST PASSed
+Imperative wall clock time = 2.046746
+ TEST PASSed
+Quick sort wall clock time = 0.334294
+ TEST PASSed
+q---->21   p---->6 
+________________
+OpenMP wall clock time = 1.638400
+ TEST PASSed
+Imperative wall clock time = 4.597341
+ TEST PASSed
+Quick sort wall clock time = 0.706188
+ TEST PASSed
+q---->22   p---->6 
+________________
+OpenMP wall clock time = 4.409169
+ TEST PASSed
+Imperative wall clock time = 10.058848
+ TEST PASSed
+Quick sort wall clock time = 1.479844
+ TEST PASSed
+q---->23   p---->6 
+________________
+OpenMP wall clock time = 3.359262
+ TEST PASSed
+Imperative wall clock time = 21.624940
+ TEST PASSed
+Quick sort wall clock time = 3.092509
+ TEST PASSed
+q---->24   p---->6 
+________________
+OpenMP wall clock time = 16.545387
+ TEST PASSed
+Imperative wall clock time = 46.651000
+ TEST PASSed
+Quick sort wall clock time = 6.480142
+ TEST PASSed
+q---->16   p---->7 
+________________
+OpenMP wall clock time = 0.109913
+ TEST PASSed
+Imperative wall clock time = 0.087305
+ TEST PASSed
+Quick sort wall clock time = 0.017011
+ TEST PASSed
+q---->17   p---->7 
+________________
+OpenMP wall clock time = 0.162304
+ TEST PASSed
+Imperative wall clock time = 0.194767
+ TEST PASSed
+Quick sort wall clock time = 0.035737
+ TEST PASSed
+q---->18   p---->7 
+________________
+OpenMP wall clock time = 0.253355
+ TEST PASSed
+Imperative wall clock time = 0.423205
+ TEST PASSed
+Quick sort wall clock time = 0.075277
+ TEST PASSed
+q---->19   p---->7 
+________________
+OpenMP wall clock time = 0.392793
+ TEST PASSed
+Imperative wall clock time = 0.932707
+ TEST PASSed
+Quick sort wall clock time = 0.158693
+ TEST PASSed
+q---->20   p---->7 
+________________
+OpenMP wall clock time = 0.662275
+ TEST PASSed
+Imperative wall clock time = 2.085748
+ TEST PASSed
+Quick sort wall clock time = 0.334059
+ TEST PASSed
+q---->21   p---->7 
+________________
+OpenMP wall clock time = 1.060737
+ TEST PASSed
+Imperative wall clock time = 4.576245
+ TEST PASSed
+Quick sort wall clock time = 0.704337
+ TEST PASSed
+q---->22   p---->7 
+________________
+OpenMP wall clock time = 1.907515
+ TEST PASSed
+Imperative wall clock time = 9.973302
+ TEST PASSed
+Quick sort wall clock time = 1.475550
+ TEST PASSed
+q---->23   p---->7 
+________________
+OpenMP wall clock time = 8.696180
+ TEST PASSed
+Imperative wall clock time = 21.638991
+ TEST PASSed
+Quick sort wall clock time = 3.111171
+ TEST PASSed
+q---->24   p---->7 
+________________
+OpenMP wall clock time = 13.088935
+ TEST PASSed
+Imperative wall clock time = 46.568865
+ TEST PASSed
+Quick sort wall clock time = 6.491516
+ TEST PASSed
+q---->16   p---->8 
+________________
+OpenMP wall clock time = 0.161459
+ TEST PASSed
+Imperative wall clock time = 0.087554
+ TEST PASSed
+Quick sort wall clock time = 0.017072
+ TEST PASSed
+q---->17   p---->8 
+________________
+OpenMP wall clock time = 0.217707
+ TEST PASSed
+Imperative wall clock time = 0.191373
+ TEST PASSed
+Quick sort wall clock time = 0.035910
+ TEST PASSed
+q---->18   p---->8 
+________________
+OpenMP wall clock time = 0.358971
+ TEST PASSed
+Imperative wall clock time = 0.430757
+ TEST PASSed
+Quick sort wall clock time = 0.075218
+ TEST PASSed
+q---->19   p---->8 
+________________
+OpenMP wall clock time = 0.537083
+ TEST PASSed
+Imperative wall clock time = 0.949170
+ TEST PASSed
+Quick sort wall clock time = 0.158569
+ TEST PASSed
+q---->20   p---->8 
+________________
+OpenMP wall clock time = 0.978861
+ TEST PASSed
+Imperative wall clock time = 2.052602
+ TEST PASSed
+Quick sort wall clock time = 0.334805
+ TEST PASSed
+q---->21   p---->8 
+________________
+OpenMP wall clock time = 1.755445
+ TEST PASSed
+Imperative wall clock time = 4.603862
+ TEST PASSed
+Quick sort wall clock time = 0.707322
+ TEST PASSed
+q---->22   p---->8 
+________________
+OpenMP wall clock time = 2.459364
+ TEST PASSed
+Imperative wall clock time = 10.149445
+ TEST PASSed
+Quick sort wall clock time = 1.497044
+ TEST PASSed
+q---->23   p---->8 
+________________
+OpenMP wall clock time = 7.789140
+ TEST PASSed
+Imperative wall clock time = 21.588335
+ TEST PASSed
+Quick sort wall clock time = 3.092254
+ TEST PASSed
+q---->24   p---->8 
+________________
+OpenMP wall clock time = 7.245147
+ TEST PASSed
+Imperative wall clock time = 46.824884
+ TEST PASSed
+Quick sort wall clock time = 6.497508
+ TEST PASSed

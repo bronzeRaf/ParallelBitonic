@@ -1,0 +1,862 @@
+q---->16   p---->1 
+________________
+
+CilkPlus wall clock time = 0.018749
+ TEST PASSed
+
+Imperative wall clock time = 0.025639
+ TEST PASSed
+
+Quick sort wall clock time = 0.011921
+ TEST PASSed
+
+q---->17   p---->1 
+________________
+
+CilkPlus wall clock time = 0.037801
+ TEST PASSed
+
+Imperative wall clock time = 0.056120
+ TEST PASSed
+
+Quick sort wall clock time = 0.025091
+ TEST PASSed
+
+q---->18   p---->1 
+________________
+
+CilkPlus wall clock time = 0.081846
+ TEST PASSed
+
+Imperative wall clock time = 0.122630
+ TEST PASSed
+
+Quick sort wall clock time = 0.052267
+ TEST PASSed
+
+q---->19   p---->1 
+________________
+
+CilkPlus wall clock time = 0.173350
+ TEST PASSed
+
+Imperative wall clock time = 0.267689
+ TEST PASSed
+
+Quick sort wall clock time = 0.109080
+ TEST PASSed
+
+q---->20   p---->1 
+________________
+
+CilkPlus wall clock time = 0.373152
+ TEST PASSed
+
+Imperative wall clock time = 0.583232
+ TEST PASSed
+
+Quick sort wall clock time = 0.231109
+ TEST PASSed
+
+q---->21   p---->1 
+________________
+
+CilkPlus wall clock time = 0.805810
+ TEST PASSed
+
+Imperative wall clock time = 1.528534
+ TEST PASSed
+
+Quick sort wall clock time = 0.485028
+ TEST PASSed
+
+q---->22   p---->1 
+________________
+
+CilkPlus wall clock time = 1.936881
+ TEST PASSed
+
+Imperative wall clock time = 3.454610
+ TEST PASSed
+
+Quick sort wall clock time = 1.012589
+ TEST PASSed
+
+q---->23   p---->1 
+________________
+
+CilkPlus wall clock time = 4.561799
+ TEST PASSed
+
+Imperative wall clock time = 7.453475
+ TEST PASSed
+
+Quick sort wall clock time = 2.124967
+ TEST PASSed
+
+q---->24   p---->1 
+________________
+
+CilkPlus wall clock time = 9.540367
+ TEST PASSed
+
+Imperative wall clock time = 16.015289
+ TEST PASSed
+
+Quick sort wall clock time = 4.434395
+ TEST PASSed
+
+q---->16   p---->2 
+________________
+
+CilkPlus wall clock time = 0.018219
+ TEST PASSed
+
+Imperative wall clock time = 0.025707
+ TEST PASSed
+
+Quick sort wall clock time = 0.011960
+ TEST PASSed
+
+q---->17   p---->2 
+________________
+
+CilkPlus wall clock time = 0.036468
+ TEST PASSed
+
+Imperative wall clock time = 0.056136
+ TEST PASSed
+
+Quick sort wall clock time = 0.025107
+ TEST PASSed
+
+q---->18   p---->2 
+________________
+
+CilkPlus wall clock time = 0.071092
+ TEST PASSed
+
+Imperative wall clock time = 0.122626
+ TEST PASSed
+
+Quick sort wall clock time = 0.052346
+ TEST PASSed
+
+q---->19   p---->2 
+________________
+
+CilkPlus wall clock time = 0.149161
+ TEST PASSed
+
+Imperative wall clock time = 0.268294
+ TEST PASSed
+
+Quick sort wall clock time = 0.109404
+ TEST PASSed
+
+q---->20   p---->2 
+________________
+
+CilkPlus wall clock time = 0.314623
+ TEST PASSed
+
+Imperative wall clock time = 0.581575
+ TEST PASSed
+
+Quick sort wall clock time = 0.229861
+ TEST PASSed
+
+q---->21   p---->2 
+________________
+
+CilkPlus wall clock time = 0.680695
+ TEST PASSed
+
+Imperative wall clock time = 1.563015
+ TEST PASSed
+
+Quick sort wall clock time = 0.486363
+ TEST PASSed
+
+q---->22   p---->2 
+________________
+
+CilkPlus wall clock time = 1.369766
+ TEST PASSed
+
+Imperative wall clock time = 3.454087
+ TEST PASSed
+
+Quick sort wall clock time = 1.015665
+ TEST PASSed
+
+q---->23   p---->2 
+________________
+
+CilkPlus wall clock time = 2.524671
+ TEST PASSed
+
+Imperative wall clock time = 7.453350
+ TEST PASSed
+
+Quick sort wall clock time = 2.122834
+ TEST PASSed
+
+q---->24   p---->2 
+________________
+
+CilkPlus wall clock time = 5.023388
+ TEST PASSed
+
+Imperative wall clock time = 16.332114
+ TEST PASSed
+
+Quick sort wall clock time = 4.459167
+ TEST PASSed
+
+q---->16   p---->3 
+________________
+
+CilkPlus wall clock time = 0.016883
+ TEST PASSed
+
+Imperative wall clock time = 0.025649
+ TEST PASSed
+
+Quick sort wall clock time = 0.011942
+ TEST PASSed
+
+q---->17   p---->3 
+________________
+
+CilkPlus wall clock time = 0.027382
+ TEST PASSed
+
+Imperative wall clock time = 0.056175
+ TEST PASSed
+
+Quick sort wall clock time = 0.025274
+ TEST PASSed
+
+q---->18   p---->3 
+________________
+
+CilkPlus wall clock time = 0.049122
+ TEST PASSed
+
+Imperative wall clock time = 0.122573
+ TEST PASSed
+
+Quick sort wall clock time = 0.052112
+ TEST PASSed
+
+q---->19   p---->3 
+________________
+
+CilkPlus wall clock time = 0.099038
+ TEST PASSed
+
+Imperative wall clock time = 0.267537
+ TEST PASSed
+
+Quick sort wall clock time = 0.109459
+ TEST PASSed
+
+q---->20   p---->3 
+________________
+
+CilkPlus wall clock time = 0.204998
+ TEST PASSed
+
+Imperative wall clock time = 0.584186
+ TEST PASSed
+
+Quick sort wall clock time = 0.230472
+ TEST PASSed
+
+q---->21   p---->3 
+________________
+
+CilkPlus wall clock time = 0.430138
+ TEST PASSed
+
+Imperative wall clock time = 1.528122
+ TEST PASSed
+
+Quick sort wall clock time = 0.484969
+ TEST PASSed
+
+q---->22   p---->3 
+________________
+
+CilkPlus wall clock time = 0.868039
+ TEST PASSed
+
+Imperative wall clock time = 3.489591
+ TEST PASSed
+
+Quick sort wall clock time = 1.015732
+ TEST PASSed
+
+q---->23   p---->3 
+________________
+
+CilkPlus wall clock time = 1.740228
+ TEST PASSed
+
+Imperative wall clock time = 7.451634
+ TEST PASSed
+
+Quick sort wall clock time = 2.125399
+ TEST PASSed
+
+q---->24   p---->3 
+________________
+
+CilkPlus wall clock time = 3.627307
+ TEST PASSed
+
+Imperative wall clock time = 16.017466
+ TEST PASSed
+
+Quick sort wall clock time = 4.437655
+ TEST PASSed
+
+q---->16   p---->4 
+________________
+
+CilkPlus wall clock time = 0.018608
+ TEST PASSed
+
+Imperative wall clock time = 0.025656
+ TEST PASSed
+
+Quick sort wall clock time = 0.011932
+ TEST PASSed
+
+q---->17   p---->4 
+________________
+
+CilkPlus wall clock time = 0.029304
+ TEST PASSed
+
+Imperative wall clock time = 0.056109
+ TEST PASSed
+
+Quick sort wall clock time = 0.025059
+ TEST PASSed
+
+q---->18   p---->4 
+________________
+
+CilkPlus wall clock time = 0.054490
+ TEST PASSed
+
+Imperative wall clock time = 0.122792
+ TEST PASSed
+
+Quick sort wall clock time = 0.052199
+ TEST PASSed
+
+q---->19   p---->4 
+________________
+
+CilkPlus wall clock time = 0.101500
+ TEST PASSed
+
+Imperative wall clock time = 0.267642
+ TEST PASSed
+
+Quick sort wall clock time = 0.109449
+ TEST PASSed
+
+q---->20   p---->4 
+________________
+
+CilkPlus wall clock time = 0.207432
+ TEST PASSed
+
+Imperative wall clock time = 0.585532
+ TEST PASSed
+
+Quick sort wall clock time = 0.230488
+ TEST PASSed
+
+q---->21   p---->4 
+________________
+
+CilkPlus wall clock time = 0.437492
+ TEST PASSed
+
+Imperative wall clock time = 1.549316
+ TEST PASSed
+
+Quick sort wall clock time = 0.485135
+ TEST PASSed
+
+q---->22   p---->4 
+________________
+
+CilkPlus wall clock time = 0.875944
+ TEST PASSed
+
+Imperative wall clock time = 3.520718
+ TEST PASSed
+
+Quick sort wall clock time = 1.020310
+ TEST PASSed
+
+q---->23   p---->4 
+________________
+
+CilkPlus wall clock time = 1.753007
+ TEST PASSed
+
+Imperative wall clock time = 7.596038
+ TEST PASSed
+
+Quick sort wall clock time = 2.135072
+ TEST PASSed
+
+q---->24   p---->4 
+________________
+
+CilkPlus wall clock time = 3.637255
+ TEST PASSed
+
+Imperative wall clock time = 16.186286
+ TEST PASSed
+
+Quick sort wall clock time = 4.451792
+ TEST PASSed
+
+q---->16   p---->5 
+________________
+
+CilkPlus wall clock time = 0.021831
+ TEST PASSed
+
+Imperative wall clock time = 0.025657
+ TEST PASSed
+
+Quick sort wall clock time = 0.011930
+ TEST PASSed
+
+q---->17   p---->5 
+________________
+
+CilkPlus wall clock time = 0.035050
+ TEST PASSed
+
+Imperative wall clock time = 0.056134
+ TEST PASSed
+
+Quick sort wall clock time = 0.025111
+ TEST PASSed
+
+q---->18   p---->5 
+________________
+
+CilkPlus wall clock time = 0.059637
+ TEST PASSed
+
+Imperative wall clock time = 0.122646
+ TEST PASSed
+
+Quick sort wall clock time = 0.052460
+ TEST PASSed
+
+q---->19   p---->5 
+________________
+
+CilkPlus wall clock time = 0.109284
+ TEST PASSed
+
+Imperative wall clock time = 0.267619
+ TEST PASSed
+
+Quick sort wall clock time = 0.109585
+ TEST PASSed
+
+q---->20   p---->5 
+________________
+
+CilkPlus wall clock time = 0.218827
+ TEST PASSed
+
+Imperative wall clock time = 0.581839
+ TEST PASSed
+
+Quick sort wall clock time = 0.230599
+ TEST PASSed
+
+q---->21   p---->5 
+________________
+
+CilkPlus wall clock time = 0.445500
+ TEST PASSed
+
+Imperative wall clock time = 1.563711
+ TEST PASSed
+
+Quick sort wall clock time = 0.484928
+ TEST PASSed
+
+q---->22   p---->5 
+________________
+
+CilkPlus wall clock time = 0.893515
+ TEST PASSed
+
+Imperative wall clock time = 3.522534
+ TEST PASSed
+
+Quick sort wall clock time = 1.016975
+ TEST PASSed
+
+q---->23   p---->5 
+________________
+
+CilkPlus wall clock time = 1.781734
+ TEST PASSed
+
+Imperative wall clock time = 7.451028
+ TEST PASSed
+
+Quick sort wall clock time = 2.126060
+ TEST PASSed
+
+q---->24   p---->5 
+________________
+
+CilkPlus wall clock time = 3.657818
+ TEST PASSed
+
+Imperative wall clock time = 16.020392
+ TEST PASSed
+
+Quick sort wall clock time = 4.440797
+ TEST PASSed
+
+q---->16   p---->6 
+________________
+
+CilkPlus wall clock time = 0.028287
+ TEST PASSed
+
+Imperative wall clock time = 0.025680
+ TEST PASSed
+
+Quick sort wall clock time = 0.011970
+ TEST PASSed
+
+q---->17   p---->6 
+________________
+
+CilkPlus wall clock time = 0.042579
+ TEST PASSed
+
+Imperative wall clock time = 0.056134
+ TEST PASSed
+
+Quick sort wall clock time = 0.025312
+ TEST PASSed
+
+q---->18   p---->6 
+________________
+CilkPlus wall clock time = 0.070972
+ TEST PASSed
+
+Imperative wall clock time = 0.122627
+ TEST PASSed
+
+Quick sort wall clock time = 0.052257
+ TEST PASSed
+
+q---->19   p---->6 
+________________
+
+CilkPlus wall clock time = 0.121819
+ TEST PASSed
+
+Imperative wall clock time = 0.267655
+ TEST PASSed
+
+Quick sort wall clock time = 0.109456
+ TEST PASSed
+
+q---->20   p---->6 
+________________
+
+CilkPlus wall clock time = 0.232952
+ TEST PASSed
+
+Imperative wall clock time = 0.584169
+ TEST PASSed
+
+Quick sort wall clock time = 0.230633
+ TEST PASSed
+
+q---->21   p---->6 
+________________
+
+CilkPlus wall clock time = 0.461914
+ TEST PASSed
+
+Imperative wall clock time = 1.533892
+ TEST PASSed
+
+Quick sort wall clock time = 0.484367
+ TEST PASSed
+
+q---->22   p---->6 
+________________
+
+CilkPlus wall clock time = 0.914928
+ TEST PASSed
+
+Imperative wall clock time = 3.454783
+ TEST PASSed
+
+Quick sort wall clock time = 1.015167
+ TEST PASSed
+
+q---->23   p---->6 
+________________
+
+CilkPlus wall clock time = 1.804208
+ TEST PASSed
+
+Imperative wall clock time = 7.599529
+ TEST PASSed
+
+Quick sort wall clock time = 2.132815
+ TEST PASSed
+
+q---->24   p---->6 
+________________
+
+CilkPlus wall clock time = 3.728120
+ TEST PASSed
+
+Imperative wall clock time = 16.332522
+ TEST PASSed
+
+Quick sort wall clock time = 4.464993
+ TEST PASSed
+
+q---->16   p---->7 
+________________
+
+CilkPlus wall clock time = 0.041166
+ TEST PASSed
+
+Imperative wall clock time = 0.025705
+ TEST PASSed
+
+Quick sort wall clock time = 0.011920
+ TEST PASSed
+
+q---->17   p---->7 
+________________
+
+CilkPlus wall clock time = 0.057138
+ TEST PASSed
+
+Imperative wall clock time = 0.056136
+ TEST PASSed
+
+Quick sort wall clock time = 0.025100
+ TEST PASSed
+
+q---->18   p---->7 
+________________
+
+CilkPlus wall clock time = 0.091043
+ TEST PASSed
+
+Imperative wall clock time = 0.122628
+ TEST PASSed
+
+Quick sort wall clock time = 0.052016
+ TEST PASSed
+
+q---->19   p---->7 
+________________
+
+CilkPlus wall clock time = 0.149217
+ TEST PASSed
+
+Imperative wall clock time = 0.267584
+ TEST PASSed
+
+Quick sort wall clock time = 0.109380
+ TEST PASSed
+
+q---->20   p---->7 
+________________
+
+CilkPlus wall clock time = 0.267631
+ TEST PASSed
+
+Imperative wall clock time = 0.581801
+ TEST PASSed
+
+Quick sort wall clock time = 0.230001
+ TEST PASSed
+
+q---->21   p---->7 
+________________
+
+CilkPlus wall clock time = 0.497977
+ TEST PASSed
+
+Imperative wall clock time = 1.551145
+ TEST PASSed
+
+Quick sort wall clock time = 0.483967
+ TEST PASSed
+
+q---->22   p---->7 
+________________
+
+CilkPlus wall clock time = 0.957363
+ TEST PASSed
+
+Imperative wall clock time = 3.523043
+ TEST PASSed
+
+Quick sort wall clock time = 1.019446
+ TEST PASSed
+
+q---->23   p---->7 
+________________
+
+CilkPlus wall clock time = 1.872741
+ TEST PASSed
+
+Imperative wall clock time = 7.536694
+ TEST PASSed
+
+Quick sort wall clock time = 2.127900
+ TEST PASSed
+
+q---->24   p---->7 
+________________
+
+CilkPlus wall clock time = 3.762772
+ TEST PASSed
+
+Imperative wall clock time = 16.234952
+ TEST PASSed
+
+Quick sort wall clock time = 4.468788
+ TEST PASSed
+
+q---->16   p---->8 
+________________
+
+CilkPlus wall clock time = 0.016630
+ TEST PASSed
+
+Imperative wall clock time = 0.025665
+ TEST PASSed
+
+Quick sort wall clock time = 0.011914
+ TEST PASSed
+
+q---->17   p---->8 
+________________
+
+CilkPlus wall clock time = 0.027549
+ TEST PASSed
+
+Imperative wall clock time = 0.056279
+ TEST PASSed
+
+Quick sort wall clock time = 0.025073
+ TEST PASSed
+
+q---->18   p---->8 
+________________
+
+CilkPlus wall clock time = 0.050572
+ TEST PASSed
+
+Imperative wall clock time = 0.122626
+ TEST PASSed
+
+Quick sort wall clock time = 0.052608
+ TEST PASSed
+
+q---->19   p---->8 
+________________
+
+CilkPlus wall clock time = 0.101276
+ TEST PASSed
+
+Imperative wall clock time = 0.267675
+ TEST PASSed
+
+Quick sort wall clock time = 0.109457
+ TEST PASSed
+
+q---->20   p---->8 
+________________
+
+CilkPlus wall clock time = 0.202916
+ TEST PASSed
+
+Imperative wall clock time = 0.583996
+ TEST PASSed
+
+Quick sort wall clock time = 0.230551
+ TEST PASSed
+
+q---->21   p---->8 
+________________
+
+CilkPlus wall clock time = 0.422612
+ TEST PASSed
+
+Imperative wall clock time = 1.556988
+ TEST PASSed
+
+Quick sort wall clock time = 0.487625
+ TEST PASSed
+
+q---->22   p---->8 
+________________
+
+CilkPlus wall clock time = 0.877119
+ TEST PASSed
+
+Imperative wall clock time = 3.490841
+ TEST PASSed
+
+Quick sort wall clock time = 1.016085
+ TEST PASSed
+
+q---->23   p---->8 
+________________
+
+CilkPlus wall clock time = 1.746850
+ TEST PASSed
+
+Imperative wall clock time = 7.531350
+ TEST PASSed
+
+Quick sort wall clock time = 2.129800
+ TEST PASSed
+
+q---->24   p---->8 
+________________
+
+CilkPlus wall clock time = 3.626449
+ TEST PASSed
+
+Imperative wall clock time = 16.326696
+ TEST PASSed
+
+Quick sort wall clock time = 4.449788
+ TEST PASSed

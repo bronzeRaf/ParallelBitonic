@@ -1,0 +1,576 @@
+q---->16   p---->1 
+________________
+Recursive wall clock time = 0.086721
+ TEST PASSed
+OpenMP wall clock time = 0.040102
+ TEST PASSed
+Quick sort wall clock time = 0.016993
+ TEST PASSed
+q---->17   p---->1 
+________________
+Recursive wall clock time = 0.190372
+ TEST PASSed
+OpenMP wall clock time = 0.073694
+ TEST PASSed
+Quick sort wall clock time = 0.035946
+ TEST PASSed
+q---->18   p---->1 
+________________
+Recursive wall clock time = 0.416718
+ TEST PASSed
+OpenMP wall clock time = 0.141744
+ TEST PASSed
+Quick sort wall clock time = 0.075615
+ TEST PASSed
+q---->19   p---->1 
+________________
+Recursive wall clock time = 0.909998
+ TEST PASSed
+OpenMP wall clock time = 0.300427
+ TEST PASSed
+Quick sort wall clock time = 0.159321
+ TEST PASSed
+q---->20   p---->1 
+________________
+Recursive wall clock time = 1.985062
+ TEST PASSed
+OpenMP wall clock time = 0.619623
+ TEST PASSed
+Quick sort wall clock time = 0.335263
+ TEST PASSed
+q---->21   p---->1 
+________________
+Recursive wall clock time = 4.294058
+ TEST PASSed
+OpenMP wall clock time = 1.368646
+ TEST PASSed
+Quick sort wall clock time = 0.710164
+ TEST PASSed
+q---->22   p---->1 
+________________
+Recursive wall clock time = 9.303425
+ TEST PASSed
+OpenMP wall clock time = 2.681523
+ TEST PASSed
+Quick sort wall clock time = 1.488796
+ TEST PASSed
+q---->23   p---->1 
+________________
+Recursive wall clock time = 20.007190
+ TEST PASSed
+OpenMP wall clock time = 5.584362
+ TEST PASSed
+Quick sort wall clock time = 3.114079
+ TEST PASSed
+q---->24   p---->1 
+________________
+Recursive wall clock time = 43.013954
+ TEST PASSed
+OpenMP wall clock time = 11.662805
+ TEST PASSed
+Quick sort wall clock time = 6.507143
+ TEST PASSed
+q---->16   p---->2 
+________________
+Recursive wall clock time = 0.086263
+ TEST PASSed
+OpenMP wall clock time = 0.045884
+ TEST PASSed
+Quick sort wall clock time = 0.016955
+ TEST PASSed
+q---->17   p---->2 
+________________
+Recursive wall clock time = 0.190582
+ TEST PASSed
+OpenMP wall clock time = 0.084940
+ TEST PASSed
+Quick sort wall clock time = 0.035786
+ TEST PASSed
+q---->18   p---->2 
+________________
+Recursive wall clock time = 0.421402
+ TEST PASSed
+OpenMP wall clock time = 0.174804
+ TEST PASSed
+Quick sort wall clock time = 0.075813
+ TEST PASSed
+q---->19   p---->2 
+________________
+Recursive wall clock time = 0.918499
+ TEST PASSed
+OpenMP wall clock time = 0.360781
+ TEST PASSed
+Quick sort wall clock time = 0.159464
+ TEST PASSed
+q---->20   p---->2 
+________________
+Recursive wall clock time = 1.984985
+ TEST PASSed
+OpenMP wall clock time = 0.747047
+ TEST PASSed
+Quick sort wall clock time = 0.336397
+ TEST PASSed
+q---->21   p---->2 
+________________
+Recursive wall clock time = 4.339650
+ TEST PASSed
+OpenMP wall clock time = 1.554666
+ TEST PASSed
+Quick sort wall clock time = 0.709249
+ TEST PASSed
+q---->22   p---->2 
+________________
+Recursive wall clock time = 9.438676
+ TEST PASSed
+OpenMP wall clock time = 3.260925
+ TEST PASSed
+Quick sort wall clock time = 1.503882
+ TEST PASSed
+q---->23   p---->2 
+________________
+Recursive wall clock time = 22.852476
+ TEST PASSed
+OpenMP wall clock time = 10.263360
+ TEST PASSed
+Quick sort wall clock time = 4.355506
+ TEST PASSed
+q---->24   p---->2 
+________________
+Recursive wall clock time = 48.498285
+ TEST PASSed
+OpenMP wall clock time = 14.123681
+ TEST PASSed
+Quick sort wall clock time = 6.503991
+ TEST PASSed
+q---->16   p---->3 
+________________
+Recursive wall clock time = 0.086408
+ TEST PASSed
+OpenMP wall clock time = 0.054156
+ TEST PASSed
+Quick sort wall clock time = 0.016970
+ TEST PASSed
+q---->17   p---->3 
+________________
+Recursive wall clock time = 0.191506
+ TEST PASSed
+OpenMP wall clock time = 0.097951
+ TEST PASSed
+Quick sort wall clock time = 0.035810
+ TEST PASSed
+q---->18   p---->3 
+________________
+Recursive wall clock time = 0.419855
+ TEST PASSed
+OpenMP wall clock time = 0.204116
+ TEST PASSed
+Quick sort wall clock time = 0.075484
+ TEST PASSed
+q---->19   p---->3 
+________________
+Recursive wall clock time = 0.911425
+ TEST PASSed
+OpenMP wall clock time = 0.425064
+ TEST PASSed
+Quick sort wall clock time = 0.159172
+ TEST PASSed
+q---->20   p---->3 
+________________
+Recursive wall clock time = 1.993089
+ TEST PASSed
+OpenMP wall clock time = 0.868564
+ TEST PASSed
+Quick sort wall clock time = 0.336862
+ TEST PASSed
+q---->21   p---->3 
+________________
+Recursive wall clock time = 4.300161
+ TEST PASSed
+OpenMP wall clock time = 1.823462
+ TEST PASSed
+Quick sort wall clock time = 0.708016
+ TEST PASSed
+q---->22   p---->3 
+________________
+Recursive wall clock time = 9.301840
+ TEST PASSed
+OpenMP wall clock time = 3.797411
+ TEST PASSed
+Quick sort wall clock time = 1.489530
+ TEST PASSed
+q---->23   p---->3 
+________________
+Recursive wall clock time = 20.029181
+ TEST PASSed
+OpenMP wall clock time = 7.925990
+ TEST PASSed
+Quick sort wall clock time = 3.123256
+ TEST PASSed
+q---->24   p---->3 
+________________
+Recursive wall clock time = 43.188218
+ TEST PASSed
+OpenMP wall clock time = 16.590253
+ TEST PASSed
+Quick sort wall clock time = 6.519756
+ TEST PASSed
+q---->16   p---->4 
+________________
+Recursive wall clock time = 0.086537
+ TEST PASSed
+OpenMP wall clock time = 0.053138
+ TEST PASSed
+Quick sort wall clock time = 0.016957
+ TEST PASSed
+q---->17   p---->4 
+________________
+Recursive wall clock time = 0.190459
+ TEST PASSed
+OpenMP wall clock time = 0.114368
+ TEST PASSed
+Quick sort wall clock time = 0.035815
+ TEST PASSed
+q---->18   p---->4 
+________________
+Recursive wall clock time = 0.417355
+ TEST PASSed
+OpenMP wall clock time = 0.227136
+ TEST PASSed
+Quick sort wall clock time = 0.075575
+ TEST PASSed
+q---->19   p---->4 
+________________
+Recursive wall clock time = 0.915702
+ TEST PASSed
+OpenMP wall clock time = 0.476785
+ TEST PASSed
+Quick sort wall clock time = 0.159249
+ TEST PASSed
+q---->20   p---->4 
+________________
+Recursive wall clock time = 1.993662
+ TEST PASSed
+OpenMP wall clock time = 0.992858
+ TEST PASSed
+Quick sort wall clock time = 0.338882
+ TEST PASSed
+q---->21   p---->4 
+________________
+Recursive wall clock time = 4.299570
+ TEST PASSed
+OpenMP wall clock time = 2.068368
+ TEST PASSed
+Quick sort wall clock time = 0.709713
+ TEST PASSed
+q---->22   p---->4 
+________________
+Recursive wall clock time = 9.353327
+ TEST PASSed
+OpenMP wall clock time = 4.312724
+ TEST PASSed
+Quick sort wall clock time = 1.492933
+ TEST PASSed
+q---->23   p---->4 
+________________
+Recursive wall clock time = 20.089132
+ TEST PASSed
+OpenMP wall clock time = 9.052913
+ TEST PASSed
+Quick sort wall clock time = 3.122248
+ TEST PASSed
+q---->24   p---->4 
+________________
+Recursive wall clock time = 43.162253
+ TEST PASSed
+OpenMP wall clock time = 18.810961
+ TEST PASSed
+Quick sort wall clock time = 6.580908
+ TEST PASSed
+q---->16   p---->5 
+________________
+Recursive wall clock time = 0.086360
+ TEST PASSed
+OpenMP wall clock time = 0.064601
+ TEST PASSed
+Quick sort wall clock time = 0.016940
+ TEST PASSed
+q---->17   p---->5 
+________________
+Recursive wall clock time = 0.192164
+ TEST PASSed
+OpenMP wall clock time = 0.123924
+ TEST PASSed
+Quick sort wall clock time = 0.035808
+ TEST PASSed
+q---->18   p---->5 
+________________
+Recursive wall clock time = 0.417646
+ TEST PASSed
+OpenMP wall clock time = 0.256492
+ TEST PASSed
+Quick sort wall clock time = 0.075505
+ TEST PASSed
+q---->19   p---->5 
+________________
+Recursive wall clock time = 0.910438
+ TEST PASSed
+OpenMP wall clock time = 0.525321
+ TEST PASSed
+Quick sort wall clock time = 0.159145
+ TEST PASSed
+q---->20   p---->5 
+________________
+Recursive wall clock time = 1.986961
+ TEST PASSed
+OpenMP wall clock time = 1.112488
+ TEST PASSed
+Quick sort wall clock time = 0.335721
+ TEST PASSed
+q---->21   p---->5 
+________________
+Recursive wall clock time = 4.299430
+ TEST PASSed
+OpenMP wall clock time = 2.308153
+ TEST PASSed
+Quick sort wall clock time = 0.710473
+ TEST PASSed
+q---->22   p---->5 
+________________
+Recursive wall clock time = 9.326025
+ TEST PASSed
+OpenMP wall clock time = 4.842363
+ TEST PASSed
+Quick sort wall clock time = 1.484399
+ TEST PASSed
+q---->23   p---->5 
+________________
+Recursive wall clock time = 20.014097
+ TEST PASSed
+OpenMP wall clock time = 10.351984
+ TEST PASSed
+Quick sort wall clock time = 3.117661
+ TEST PASSed
+q---->24   p---->5 
+________________
+Recursive wall clock time = 42.986977
+ TEST PASSed
+OpenMP wall clock time = 21.370966
+ TEST PASSed
+Quick sort wall clock time = 8.662899
+ TEST PASSed
+q---->16   p---->6 
+________________
+Recursive wall clock time = 0.086497
+ TEST PASSed
+OpenMP wall clock time = 0.486225
+ TEST PASSed
+Quick sort wall clock time = 0.017193
+ TEST PASSed
+q---->17   p---->6 
+________________
+Recursive wall clock time = 0.194054
+ TEST PASSed
+OpenMP wall clock time = 0.260569
+ TEST PASSed
+Quick sort wall clock time = 0.035845
+ TEST PASSed
+q---->18   p---->6 
+________________
+Recursive wall clock time = 0.430981
+ TEST PASSed
+OpenMP wall clock time = 0.624625
+ TEST PASSed
+Quick sort wall clock time = 0.075786
+ TEST PASSed
+q---->19   p---->6 
+________________
+Recursive wall clock time = 0.941969
+ TEST PASSed
+OpenMP wall clock time = 0.956069
+ TEST PASSed
+Quick sort wall clock time = 0.165514
+ TEST PASSed
+q---->20   p---->6 
+________________
+Recursive wall clock time = 1.985192
+ TEST PASSed
+OpenMP wall clock time = 1.784093
+ TEST PASSed
+Quick sort wall clock time = 0.340204
+ TEST PASSed
+q---->21   p---->6 
+________________
+Recursive wall clock time = 4.319821
+ TEST PASSed
+OpenMP wall clock time = 2.664800
+ TEST PASSed
+Quick sort wall clock time = 0.750541
+ TEST PASSed
+q---->22   p---->6 
+________________
+Recursive wall clock time = 9.479246
+ TEST PASSed
+OpenMP wall clock time = 5.480702
+ TEST PASSed
+Quick sort wall clock time = 1.544005
+ TEST PASSed
+q---->23   p---->6 
+________________
+Recursive wall clock time = 20.238097
+ TEST PASSed
+OpenMP wall clock time = 11.651159
+ TEST PASSed
+Quick sort wall clock time = 3.123169
+ TEST PASSed
+q---->24   p---->6 
+________________
+Recursive wall clock time = 43.842501
+ TEST PASSed
+OpenMP wall clock time = 23.982162
+ TEST PASSed
+Quick sort wall clock time = 6.809146
+ TEST PASSed
+q---->16   p---->7 
+________________
+Recursive wall clock time = 0.086530
+ TEST PASSed
+OpenMP wall clock time = 0.072794
+ TEST PASSed
+Quick sort wall clock time = 0.016952
+ TEST PASSed
+q---->17   p---->7 
+________________
+Recursive wall clock time = 0.190328
+ TEST PASSed
+OpenMP wall clock time = 0.148264
+ TEST PASSed
+Quick sort wall clock time = 0.035811
+ TEST PASSed
+q---->18   p---->7 
+________________
+Recursive wall clock time = 0.419096
+ TEST PASSed
+OpenMP wall clock time = 0.303126
+ TEST PASSed
+Quick sort wall clock time = 0.075619
+ TEST PASSed
+q---->19   p---->7 
+________________
+Recursive wall clock time = 0.918069
+ TEST PASSed
+OpenMP wall clock time = 0.638014
+ TEST PASSed
+Quick sort wall clock time = 0.159302
+ TEST PASSed
+q---->20   p---->7 
+________________
+Recursive wall clock time = 1.983176
+ TEST PASSed
+OpenMP wall clock time = 1.411970
+ TEST PASSed
+Quick sort wall clock time = 0.340503
+ TEST PASSed
+q---->21   p---->7 
+________________
+Recursive wall clock time = 4.446539
+ TEST PASSed
+OpenMP wall clock time = 2.964385
+ TEST PASSed
+Quick sort wall clock time = 0.723565
+ TEST PASSed
+q---->22   p---->7 
+________________
+Recursive wall clock time = 9.322765
+ TEST PASSed
+OpenMP wall clock time = 5.803785
+ TEST PASSed
+Quick sort wall clock time = 1.496809
+ TEST PASSed
+q---->23   p---->7 
+________________
+Recursive wall clock time = 20.033545
+ TEST PASSed
+OpenMP wall clock time = 12.141321
+ TEST PASSed
+Quick sort wall clock time = 3.115501
+ TEST PASSed
+q---->24   p---->7 
+________________
+Recursive wall clock time = 45.795939
+ TEST PASSed
+OpenMP wall clock time = 26.458303
+ TEST PASSed
+Quick sort wall clock time = 6.570321
+ TEST PASSed
+q---->16   p---->8 
+________________
+Recursive wall clock time = 0.086497
+ TEST PASSed
+OpenMP wall clock time = 0.078603
+ TEST PASSed
+Quick sort wall clock time = 0.017051
+ TEST PASSed
+q---->17   p---->8 
+________________
+Recursive wall clock time = 0.193577
+ TEST PASSed
+OpenMP wall clock time = 0.163276
+ TEST PASSed
+Quick sort wall clock time = 0.035809
+ TEST PASSed
+q---->18   p---->8 
+________________
+Recursive wall clock time = 0.420759
+ TEST PASSed
+OpenMP wall clock time = 0.325306
+ TEST PASSed
+Quick sort wall clock time = 0.075428
+ TEST PASSed
+q---->19   p---->8 
+________________
+Recursive wall clock time = 0.935206
+ TEST PASSed
+OpenMP wall clock time = 0.809422
+ TEST PASSed
+Quick sort wall clock time = 0.159209
+ TEST PASSed
+q---->20   p---->8 
+________________
+Recursive wall clock time = 1.994874
+ TEST PASSed
+OpenMP wall clock time = 1.470745
+ TEST PASSed
+Quick sort wall clock time = 0.347592
+ TEST PASSed
+q---->21   p---->8 
+________________
+Recursive wall clock time = 4.315900
+ TEST PASSed
+OpenMP wall clock time = 2.975131
+ TEST PASSed
+Quick sort wall clock time = 0.708720
+ TEST PASSed
+q---->22   p---->8 
+________________
+Recursive wall clock time = 9.300064
+ TEST PASSed
+OpenMP wall clock time = 6.412438
+ TEST PASSed
+Quick sort wall clock time = 1.486850
+ TEST PASSed
+q---->23   p---->8 
+________________
+Recursive wall clock time = 20.081603
+ TEST PASSed
+OpenMP wall clock time = 13.871974
+ TEST PASSed
+Quick sort wall clock time = 3.123861
+ TEST PASSed
+q---->24   p---->8 
+________________
+Recursive wall clock time = 43.202629
+ TEST PASSed
+OpenMP wall clock time = 27.235114
+ TEST PASSed
+Quick sort wall clock time = 6.521421
+ TEST PASSed

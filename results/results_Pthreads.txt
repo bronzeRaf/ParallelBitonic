@@ -1,0 +1,858 @@
+p----> 16 q----> 1
+________________ 
+
+Recursive wall clock time = 0.269909
+ TEST PASSed
+
+Pthreads wall clock time = 0.050834
+ TEST PASSed
+
+Quick sort wall clock time = 0.028630
+ TEST PASSed
+
+p----> 17 q----> 1
+________________ 
+
+Recursive wall clock time = 0.204202
+ TEST PASSed
+
+Pthreads wall clock time = 0.173368
+ TEST PASSed
+
+Quick sort wall clock time = 0.125979
+ TEST PASSed
+
+p----> 18 q----> 1
+________________ 
+
+Recursive wall clock time = 0.692095
+ TEST PASSed
+
+Pthreads wall clock time = 0.182094
+ TEST PASSed
+
+Quick sort wall clock time = 0.130892
+ TEST PASSed
+
+p----> 19 q----> 1
+________________ 
+
+Recursive wall clock time = 0.923612
+ TEST PASSed
+
+Pthreads wall clock time = 0.284237
+ TEST PASSed
+
+Quick sort wall clock time = 0.259596
+ TEST PASSed
+
+p----> 20 q----> 1
+________________ 
+
+Recursive wall clock time = 2.365427
+ TEST PASSed
+
+Pthreads wall clock time = 0.317294
+ TEST PASSed
+
+Quick sort wall clock time = 0.329230
+ TEST PASSed
+
+p----> 21 q----> 1
+________________ 
+
+Recursive wall clock time = 4.369051
+ TEST PASSed
+
+Pthreads wall clock time = 0.650477
+ TEST PASSed
+
+Quick sort wall clock time = 0.692723
+ TEST PASSed
+
+p----> 22 q----> 1
+________________ 
+
+Recursive wall clock time = 11.175148
+ TEST PASSed
+
+Pthreads wall clock time = 1.357349
+ TEST PASSed
+
+Quick sort wall clock time = 1.457137
+ TEST PASSed
+
+p----> 23 q----> 1
+________________ 
+
+Recursive wall clock time = 20.233240
+ TEST PASSed
+
+Pthreads wall clock time = 2.843187
+ TEST PASSed
+
+Quick sort wall clock time = 3.054987
+ TEST PASSed
+
+p----> 24 q----> 1
+________________ 
+
+Recursive wall clock time = 43.418272
+ TEST PASSed
+
+Pthreads wall clock time = 5.918110
+ TEST PASSed
+
+Quick sort wall clock time = 6.397378
+ TEST PASSed
+
+p----> 16 q----> 2
+________________ 
+
+Recursive wall clock time = 0.087362
+ TEST PASSed
+
+Pthreads wall clock time = 0.017396
+ TEST PASSed
+
+Quick sort wall clock time = 0.016673
+ TEST PASSed
+
+p----> 17 q----> 2
+________________ 
+
+Recursive wall clock time = 0.192341
+ TEST PASSed
+
+Pthreads wall clock time = 0.030693
+ TEST PASSed
+
+Quick sort wall clock time = 0.035161
+ TEST PASSed
+
+p----> 18 q----> 2
+________________ 
+
+Recursive wall clock time = 0.430478
+ TEST PASSed
+
+Pthreads wall clock time = 0.056000
+ TEST PASSed
+
+Quick sort wall clock time = 0.074354
+ TEST PASSed
+
+p----> 19 q----> 2
+________________ 
+
+Recursive wall clock time = 0.920690
+ TEST PASSed
+
+Pthreads wall clock time = 0.105329
+ TEST PASSed
+
+Quick sort wall clock time = 0.155716
+ TEST PASSed
+
+p----> 20 q----> 2
+________________ 
+
+Recursive wall clock time = 2.003083
+ TEST PASSed
+
+Pthreads wall clock time = 0.212514
+ TEST PASSed
+
+Quick sort wall clock time = 0.329600
+ TEST PASSed
+
+p----> 21 q----> 2
+________________ 
+
+Recursive wall clock time = 4.387002
+ TEST PASSed
+
+Pthreads wall clock time = 0.422122
+ TEST PASSed
+
+Quick sort wall clock time = 0.694129
+ TEST PASSed
+
+p----> 22 q----> 2
+________________ 
+
+Recursive wall clock time = 9.414440
+ TEST PASSed
+
+Pthreads wall clock time = 0.867599
+ TEST PASSed
+
+Quick sort wall clock time = 1.452566
+ TEST PASSed
+p----> 23 q----> 2
+________________ 
+
+Recursive wall clock time = 20.357154
+ TEST PASSed
+
+Pthreads wall clock time = 1.795845
+ TEST PASSed
+
+Quick sort wall clock time = 3.057156
+ TEST PASSed
+
+p----> 24 q----> 2
+________________ 
+
+Recursive wall clock time = 43.368678
+ TEST PASSed
+
+Pthreads wall clock time = 3.711834
+ TEST PASSed
+
+Quick sort wall clock time = 6.361244
+ TEST PASSed
+
+p----> 16 q----> 3
+________________ 
+
+Recursive wall clock time = 0.087278
+ TEST PASSed
+
+Pthreads wall clock time = 0.019386
+ TEST PASSed
+
+Quick sort wall clock time = 0.016679
+ TEST PASSed
+
+p----> 17 q----> 3
+________________ 
+
+Recursive wall clock time = 0.192393
+ TEST PASSed
+
+Pthreads wall clock time = 0.024648
+ TEST PASSed
+
+Quick sort wall clock time = 0.035098
+ TEST PASSed
+
+p----> 18 q----> 3
+________________ 
+
+Recursive wall clock time = 0.426351
+ TEST PASSed
+
+Pthreads wall clock time = 0.051942
+ TEST PASSed
+
+Quick sort wall clock time = 0.074096
+ TEST PASSed
+
+p----> 19 q----> 3
+________________ 
+
+Recursive wall clock time = 0.924253
+ TEST PASSed
+
+Pthreads wall clock time = 0.085277
+ TEST PASSed
+
+Quick sort wall clock time = 0.156313
+ TEST PASSed
+
+p----> 20 q----> 3
+________________ 
+
+Recursive wall clock time = 2.000229
+ TEST PASSed
+
+Pthreads wall clock time = 0.155707
+ TEST PASSed
+
+Quick sort wall clock time = 0.329275
+ TEST PASSed
+
+p----> 21 q----> 3
+________________ 
+
+Recursive wall clock time = 4.344752
+ TEST PASSed
+
+Pthreads wall clock time = 0.300664
+ TEST PASSed
+
+Quick sort wall clock time = 0.694722
+ TEST PASSed
+
+p----> 22 q----> 3
+________________ 
+
+Recursive wall clock time = 9.362897
+ TEST PASSed
+
+Pthreads wall clock time = 0.570824
+ TEST PASSed
+
+Quick sort wall clock time = 1.453786
+ TEST PASSed
+
+p----> 23 q----> 3
+________________ 
+
+Recursive wall clock time = 20.225896
+ TEST PASSed
+
+Pthreads wall clock time = 1.609986
+ TEST PASSed
+
+Quick sort wall clock time = 3.041696
+ TEST PASSed
+
+p----> 24 q----> 3
+________________ 
+
+Recursive wall clock time = 44.152747
+ TEST PASSed
+
+Pthreads wall clock time = 2.372935
+ TEST PASSed
+
+Quick sort wall clock time = 6.376083
+ TEST PASSed
+
+p----> 16 q----> 4
+________________ 
+
+Recursive wall clock time = 0.087591
+ TEST PASSed
+
+Pthreads wall clock time = 0.051430
+ TEST PASSed
+
+Quick sort wall clock time = 0.016620
+ TEST PASSed
+
+p----> 17 q----> 4
+________________ 
+
+Recursive wall clock time = 0.199393
+ TEST PASSed
+
+Pthreads wall clock time = 0.086666
+ TEST PASSed
+
+Quick sort wall clock time = 0.035247
+ TEST PASSed
+
+p----> 18 q----> 4
+________________ 
+
+Recursive wall clock time = 0.422380
+ TEST PASSed
+
+Pthreads wall clock time = 0.052089
+ TEST PASSed
+
+Quick sort wall clock time = 0.074229
+ TEST PASSed
+
+p----> 19 q----> 4
+________________ 
+
+Recursive wall clock time = 0.922023
+ TEST PASSed
+
+Pthreads wall clock time = 0.089674
+ TEST PASSed
+
+Quick sort wall clock time = 0.156103
+ TEST PASSed
+
+p----> 20 q----> 4
+________________ 
+
+Recursive wall clock time = 2.006672
+ TEST PASSed
+
+Pthreads wall clock time = 0.184989
+ TEST PASSed
+
+Quick sort wall clock time = 0.336113
+ TEST PASSed
+
+p----> 21 q----> 4
+________________ 
+
+Recursive wall clock time = 4.346373
+ TEST PASSed
+
+Pthreads wall clock time = 1.244413
+ TEST PASSed
+
+Quick sort wall clock time = 0.695985
+ TEST PASSed
+
+p----> 22 q----> 4
+________________ 
+
+Recursive wall clock time = 9.368807
+ TEST PASSed
+
+Pthreads wall clock time = 0.888443
+ TEST PASSed
+
+Quick sort wall clock time = 1.458826
+ TEST PASSed
+
+p----> 23 q----> 4
+________________ 
+
+Recursive wall clock time = 20.649086
+ TEST PASSed
+
+Pthreads wall clock time = 1.728706
+ TEST PASSed
+
+Quick sort wall clock time = 3.044679
+ TEST PASSed
+
+p----> 24 q----> 4
+________________ 
+
+Recursive wall clock time = 44.177854
+ TEST PASSed
+
+Pthreads wall clock time = 2.693625
+ TEST PASSed
+
+Quick sort wall clock time = 6.359291
+ TEST PASSed
+
+p----> 16 q----> 5
+________________ 
+
+Recursive wall clock time = 0.087053
+ TEST PASSed
+
+Pthreads wall clock time = 0.023444
+ TEST PASSed
+
+Quick sort wall clock time = 0.020594
+ TEST PASSed
+
+p----> 17 q----> 5
+________________ 
+
+Recursive wall clock time = 0.192397
+ TEST PASSed
+
+Pthreads wall clock time = 0.041103
+ TEST PASSed
+
+Quick sort wall clock time = 0.035193
+ TEST PASSed
+
+p----> 18 q----> 5
+________________ 
+
+Recursive wall clock time = 0.421496
+ TEST PASSed
+
+Pthreads wall clock time = 0.061095
+ TEST PASSed
+
+Quick sort wall clock time = 0.074287
+ TEST PASSed
+
+p----> 19 q----> 5
+________________ 
+
+Recursive wall clock time = 0.920253
+ TEST PASSed
+Pthreads wall clock time = 0.120115
+ TEST PASSed
+
+Quick sort wall clock time = 0.156064
+ TEST PASSed
+
+p----> 20 q----> 5
+________________ 
+
+Recursive wall clock time = 1.999928
+ TEST PASSed
+
+Pthreads wall clock time = 0.182110
+ TEST PASSed
+
+Quick sort wall clock time = 0.329645
+ TEST PASSed
+
+p----> 21 q----> 5
+________________ 
+
+Recursive wall clock time = 4.338979
+ TEST PASSed
+
+Pthreads wall clock time = 0.383296
+ TEST PASSed
+Quick sort wall clock time = 0.695230
+ TEST PASSed
+
+p----> 22 q----> 5
+________________ 
+Recursive wall clock time = 9.374858
+ TEST PASSed
+
+Pthreads wall clock time = 0.759981
+ TEST PASSed
+
+Quick sort wall clock time = 1.459369
+ TEST PASSed
+
+p----> 23 q----> 5
+________________ 
+
+Recursive wall clock time = 20.365995
+ TEST PASSed
+
+Pthreads wall clock time = 1.466726
+ TEST PASSed
+
+Quick sort wall clock time = 3.043890
+ TEST PASSed
+
+p----> 24 q----> 5
+________________ 
+
+Recursive wall clock time = 43.471573
+ TEST PASSed
+
+Pthreads wall clock time = 4.722128
+ TEST PASSed
+
+Quick sort wall clock time = 6.351326
+ TEST PASSed
+
+p----> 16 q----> 6
+________________ 
+
+Recursive wall clock time = 0.090516
+ TEST PASSed
+
+Pthreads wall clock time = 0.085490
+ TEST PASSed
+
+Quick sort wall clock time = 0.016711
+ TEST PASSed
+
+p----> 17 q----> 6
+________________ 
+
+Recursive wall clock time = 0.191985
+ TEST PASSed
+
+Pthreads wall clock time = 0.064566
+ TEST PASSed
+
+Quick sort wall clock time = 0.035493
+ TEST PASSed
+
+p----> 18 q----> 6
+________________ 
+
+Recursive wall clock time = 0.466622
+ TEST PASSed
+
+Pthreads wall clock time = 0.210689
+ TEST PASSed
+
+Quick sort wall clock time = 0.074240
+ TEST PASSed
+
+p----> 19 q----> 6
+________________ 
+
+Recursive wall clock time = 1.005613
+ TEST PASSed
+
+Pthreads wall clock time = 0.157441
+ TEST PASSed
+
+Quick sort wall clock time = 0.155885
+ TEST PASSed
+
+p----> 20 q----> 6
+________________ 
+
+Recursive wall clock time = 2.002145
+ TEST PASSed
+
+Pthreads wall clock time = 0.290867
+ TEST PASSed
+
+Quick sort wall clock time = 0.329120
+ TEST PASSed
+
+p----> 21 q----> 6
+________________ 
+
+Recursive wall clock time = 4.371960
+ TEST PASSed
+
+Pthreads wall clock time = 1.045065
+ TEST PASSed
+
+Quick sort wall clock time = 0.691918
+ TEST PASSed
+
+p----> 22 q----> 6
+________________ 
+
+Recursive wall clock time = 9.376875
+ TEST PASSed
+
+Pthreads wall clock time = 1.256112
+ TEST PASSed
+
+Quick sort wall clock time = 1.454181
+ TEST PASSed
+
+p----> 23 q----> 6
+________________ 
+
+Recursive wall clock time = 20.317730
+ TEST PASSed
+
+Pthreads wall clock time = 2.221699
+ TEST PASSed
+
+Quick sort wall clock time = 3.040932
+ TEST PASSed
+
+p----> 24 q----> 6
+________________ 
+
+Recursive wall clock time = 43.515868
+ TEST PASSed
+
+Pthreads wall clock time = 3.746758
+ TEST PASSed
+
+Quick sort wall clock time = 6.370900
+ TEST PASSed
+
+p----> 16 q----> 7
+________________ 
+
+Recursive wall clock time = 0.087388
+ TEST PASSed
+
+Pthreads wall clock time = 0.058191
+ TEST PASSed
+
+Quick sort wall clock time = 0.016767
+ TEST PASSed
+
+p----> 17 q----> 7
+________________ 
+
+Recursive wall clock time = 0.192797
+ TEST PASSed
+
+Pthreads wall clock time = 0.078198
+ TEST PASSed
+
+Quick sort wall clock time = 0.035168
+ TEST PASSed
+
+p----> 18 q----> 7
+________________ 
+
+Recursive wall clock time = 0.430267
+ TEST PASSed
+
+Pthreads wall clock time = 0.124742
+ TEST PASSed
+
+Quick sort wall clock time = 0.074643
+ TEST PASSed
+
+p----> 19 q----> 7
+________________ 
+
+Recursive wall clock time = 0.919818
+ TEST PASSed
+
+Pthreads wall clock time = 0.221437
+ TEST PASSed
+
+Quick sort wall clock time = 0.156312
+ TEST PASSed
+
+p----> 20 q----> 7
+________________ 
+
+Recursive wall clock time = 2.025433
+ TEST PASSed
+
+Pthreads wall clock time = 0.366946
+ TEST PASSed
+
+Quick sort wall clock time = 0.329916
+ TEST PASSed
+
+p----> 21 q----> 7
+________________ 
+
+Recursive wall clock time = 4.346139
+ TEST PASSed
+
+Pthreads wall clock time = 0.651958
+ TEST PASSed
+
+Quick sort wall clock time = 0.699815
+ TEST PASSed
+
+p----> 22 q----> 7
+________________ 
+
+Recursive wall clock time = 9.379810
+ TEST PASSed
+
+Pthreads wall clock time = 1.205027
+ TEST PASSed
+
+Quick sort wall clock time = 1.455305
+ TEST PASSed
+
+p----> 23 q----> 7
+________________ 
+
+Recursive wall clock time = 21.240974
+ TEST PASSed
+
+Pthreads wall clock time = 2.451185
+ TEST PASSed
+
+Quick sort wall clock time = 3.051929
+ TEST PASSed
+
+p----> 24 q----> 7
+________________ 
+
+Recursive wall clock time = 43.309958
+ TEST PASSed
+
+Pthreads wall clock time = 4.432772
+ TEST PASSed
+
+Quick sort wall clock time = 6.358316
+ TEST PASSed
+
+p----> 16 q----> 8
+________________ 
+
+Recursive wall clock time = 0.087328
+ TEST PASSed
+
+Pthreads wall clock time = 0.092965
+ TEST PASSed
+
+Quick sort wall clock time = 0.017207
+ TEST PASSed
+
+p----> 17 q----> 8
+________________ 
+
+Recursive wall clock time = 0.195920
+ TEST PASSed
+
+Pthreads wall clock time = 0.126495
+ TEST PASSed
+
+Quick sort wall clock time = 0.035351
+ TEST PASSed
+
+p----> 18 q----> 8
+________________ 
+
+Recursive wall clock time = 0.428882
+ TEST PASSed
+
+Pthreads wall clock time = 0.185938
+ TEST PASSed
+Quick sort wall clock time = 0.074116
+ TEST PASSed
+
+p----> 19 q----> 8
+________________ 
+
+Recursive wall clock time = 0.924910
+ TEST PASSed
+
+Pthreads wall clock time = 0.295764
+ TEST PASSed
+
+Quick sort wall clock time = 0.156078
+ TEST PASSed
+
+p----> 20 q----> 8
+________________ 
+
+Recursive wall clock time = 2.015189
+ TEST PASSed
+
+Pthreads wall clock time = 0.475459
+ TEST PASSed
+
+Quick sort wall clock time = 0.334214
+ TEST PASSed
+
+p----> 21 q----> 8
+________________ 
+
+Recursive wall clock time = 4.380990
+ TEST PASSed
+
+Pthreads wall clock time = 0.788560
+ TEST PASSed
+
+Quick sort wall clock time = 0.692488
+ TEST PASSed
+
+p----> 22 q----> 8
+________________ 
+
+Recursive wall clock time = 9.378345
+ TEST PASSed
+
+Pthreads wall clock time = 1.455105
+ TEST PASSed
+
+Quick sort wall clock time = 1.452748
+ TEST PASSed
+
+p----> 23 q----> 8
+________________ 
+
+Recursive wall clock time = 20.316623
+ TEST PASSed
+
+Pthreads wall clock time = 2.569222
+ TEST PASSed
+
+Quick sort wall clock time = 3.043022
+ TEST PASSed
+
+p----> 24 q----> 8
+________________ 
+
+Recursive wall clock time = 43.432497
+ TEST PASSed
+
+Pthreads wall clock time = 4.730906
+ TEST PASSed
+
+Quick sort wall clock time = 6.398443
+ TEST PASSed
