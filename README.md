@@ -73,3 +73,6 @@ This is an implementation of the recursive Bitonic sort, using parallel thread s
 ```./ executable-file-name N```
 	- executable-file-name = the name of the final executable
 	- N = the superscript of 2 for the array size as: size = 2 <sup>N</sup>
+
+## Results
+In the "results" folder you can find the runtime of each implementation. For a complete comparison the results present the runtimes of any implementation for several maximum threads (p) and for several superscripts of 2 for the array size (q). In any experiment, the implementation is compared with qsort and with the serial implementation runtimes. In every execution the sorts are verified by a test function. All the timing presented in the text files is counted in seconds.
