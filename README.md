@@ -1,4 +1,5 @@
 
+
 # ParallelBitonic
 A collection of serial and parallel implementations of the Bitonic sort algorithm in C. The project is based on the recursive and the imperative implementations of the Bitonic sort algorithm referring to the resources [[1]](http://www.cag.lcs.mit.edu/streamit/results/bitonic/code/c/bitonic.c), [[2]](http://www.tools-of-computing.com/tc/CS/Sorts/bitonic_sort.htm) and [[3]](http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/bitonic/bitonicen.htm ). 
 
@@ -19,12 +20,14 @@ The user is able to define the problem size, using  a command line argument N, w
 
 #### Compile
 - To compile the source code open a terminal in the same folder with "bitonic.c" and run:
-```$ gcc bitonic.c -o executable-file-name```
+
+```$ gcc -std=gnu89 bitonic.c -o executable-file-name```
 	- executable-file-name = the name of the final executable
 
 #### Run
 - To run the bitonic sort for a random array of the desired size open a terminal in the same folder with the executable and run:
-```./ executable-file-name N```
+
+```./executable-file-name N```
 	- executable-file-name = the name of the final executable
 	- N = the superscript of 2 for the array size as: size = 2 <sup>N</sup>
 
@@ -36,43 +39,52 @@ The "parallel" folder contains three parallel implementations of the Bitonic sor
 This is an implementation of the imperative Bitonic sort, using the parallel for loops of CilkPlus.
 
 #### Compile
-- To compile the source code open a terminal in the same folder with "bitonic.c" and run:
-```$ gcc bitonic.c -o executable-file-name```
+- To compile the source code open a terminal in the same folder with "CilkPlus.c" and run:
+
+```$ gcc -std=gnu89 -fcilkplus CilkPlus.c -o executable-file-name```
 	- executable-file-name = the name of the final executable
 
 #### Run
-- To run the bitonic sort for a random array of the desired size open a terminal in the same folder with the executable and run:
-```./ executable-file-name N```
+- To run this bitonic sort for a random array of the desired size open a terminal in the same folder with the executable and run:
+
+```./executable-file-name N p```
 	- executable-file-name = the name of the final executable
 	- N = the superscript of 2 for the array size as: size = 2 <sup>N</sup>
+	- p = the maximum number of parallel threads
 
 ### OpenMP
 There are two implementations, one of the imperative Bitonic sort, using the parallel for loops of OpenMP in the "OpenMP.c" and another one of the recursive Bitonic sort, using the OpenMP task to spawn parallel threads in the "OpenMP1.c".
 
 #### Compile
-- To compile the source code open a terminal in the same folder with "bitonic.c" and run:
-```$ gcc bitonic.c -o executable-file-name```
+- To compile the source code open a terminal in the same folder with "OpenMP.c" or "OpenMP1.c" and run:
+
+```$ gcc -std=gnu89 -fopenmp OpenMP.c -o executable-file-name```
 	- executable-file-name = the name of the final executable
 
 #### Run
-- To run the bitonic sort for a random array of the desired size open a terminal in the same folder with the executable and run:
-```./ executable-file-name N```
+- To run this bitonic sort for a random array of the desired size open a terminal in the same folder with the executable and run:
+
+```./executable-file-name N p```
 	- executable-file-name = the name of the final executable
 	- N = the superscript of 2 for the array size as: size = 2 <sup>N</sup>
+	- p = the maximum number of parallel threads
 
 ### POSIX Threads
 This is an implementation of the recursive Bitonic sort, using parallel thread spawns of POSIX Threads, for every recursive call of the sort.
 
 #### Compile
-- To compile the source code open a terminal in the same folder with "bitonic.c" and run:
-```$ gcc bitonic.c -o executable-file-name```
+- To compile the source code open a terminal in the same folder with "Pthreads1.c" and run:
+
+```$ gcc -std=gnu89 -pthread Pthreads1.c -o executable-file-name```
 	- executable-file-name = the name of the final executable
 
 #### Run
-- To run the bitonic sort for a random array of the desired size open a terminal in the same folder with the executable and run:
-```./ executable-file-name N```
+- To run this bitonic sort for a random array of the desired size open a terminal in the same folder with the executable and run:
+
+```./ executable-file-name N p```
 	- executable-file-name = the name of the final executable
 	- N = the superscript of 2 for the array size as: size = 2 <sup>N</sup>
+	- p = the maximum number of parallel threads
 
 ## Results
 In the "results" folder you can find the runtime of each implementation. For a complete comparison the results present the runtimes of any implementation for several maximum threads (p) and for several superscripts of 2 for the array size (q). In any experiment, the implementation is compared with qsort and with the serial implementation runtimes. In every execution the sorts are verified by a test function. All the timing presented in the text files is counted in seconds.
